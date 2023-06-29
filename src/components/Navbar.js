@@ -1,6 +1,8 @@
 import { Link } from 'react-router-dom'
+import useFetch from './useFetch.js'
 
 const Navbar = () => {
+  useFetch()
   return (
     <nav className="navbar">
       <h1>Valente Blog</h1>

@@ -1,0 +1,25 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Getting Started with React",
+      "author": "John Doe",
+      "body": "Are you interested in learning React? This blog post will guide you through the basics of React, including setting up your development environment, understanding components, and managing state with hooks. By the end of this tutorial, you'll be equipped with the knowledge and skills to start building your own React applications.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 2,
+      "title": "Mastering CSS Grid",
+      "author": "Jane Smith",
+      "body": "CSS Grid is a powerful layout system that allows you to create complex and responsive designs. In this comprehensive blog post, you'll dive deep into CSS Grid, learning about grid containers, grid items, grid lines, and various grid layout techniques. With practical examples and tips, you'll gain the expertise to harness the full potential of CSS Grid in your web projects.",
+      "date": "2023-05-15"
+    },
+    {
+      "id": 3,
+      "title": "Introduction to Node.js",
+      "author": "Michael Johnson",
+      "body": "Node.js has gained immense popularity in the world of web development. In this introductory blog post, you'll discover the fundamentals of Node.js and its key features. You'll learn how to set up a Node.js environment, handle asynchronous operations with callbacks and promises, and build a simple web server using Express.js. Get ready to embark on your Node.js journey!",
+      "date": "2023-05-02"
+    }
+  ]
+}
