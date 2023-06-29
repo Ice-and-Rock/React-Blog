@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 
+
 const useFetch = (url) => {
 
     const [data, setData] = useState(null)
@@ -22,16 +23,19 @@ const abortCont = new AbortController();
                     setData(data)
                     setIsPending(false)
                     setError(null)
+                    
                 })
                 .catch(err => {
                     if (err.name === 'AbortError') {
+                        
                         console.log('fetch aborted')
                     } else {
                     setIsPending(false) 
                     setError(err.message)
+                    console.log('fetch retrieved')
                     }
             })
-        }, 1000)
+        }, 500)
 
         return () => abortCont.abort();
 
