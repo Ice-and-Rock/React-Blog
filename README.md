@@ -2,6 +2,8 @@
 
 A Blog built using ReactJS.
 
+- using a local server PORT -
+
 useState
 useEffect
 useFetch - custom hook

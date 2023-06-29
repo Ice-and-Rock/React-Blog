@@ -20,6 +20,18 @@
       "author": "Michael Johnson",
       "body": "Node.js has gained immense popularity in the world of web development. In this introductory blog post, you'll discover the fundamentals of Node.js and its key features. You'll learn how to set up a Node.js environment, handle asynchronous operations with callbacks and promises, and build a simple web server using Express.js. Get ready to embark on your Node.js journey!",
       "date": "2023-05-02"
+    },
+    {
+      "title": "This is the new blog title to show my Mum",
+      "body": "So far, she doesn't seem very impressed, but I'm still learning so one day I hope she will be happy and living in Spain!\n\nMuchos gracias",
+      "author": "Nick",
+      "id": 4
+    },
+    {
+      "title": "understanding Nick's Blog",
+      "body": "This is all very new to me and have a lack of understanding of the concept.  However I am very proud of Nick as he has worked very hard to make sure he attended the Coding Course every day during the week Mon to Friday for four months and the end is almost nigh in fact it is tomorrow.  Well Done Nick.   Great Work",
+      "author": "June",
+      "id": 5
     }
   ]
 }
