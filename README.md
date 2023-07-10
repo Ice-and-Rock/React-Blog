@@ -25,7 +25,9 @@ DELETE requests
 Redirecting after an event
 Error 404 - Catching routes that doen't exist
 
-Note: 
+Notes: 
 step 1 - npx json-server --watch data/db.json --port 8000
+
 step 2 - open new terminal
+
 step 3 - npm start
