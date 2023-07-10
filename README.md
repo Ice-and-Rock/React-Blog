@@ -1,6 +1,17 @@
+
 # React-Blog
 
 A Blog built using ReactJS.
+
+
+![b060dc3e-cacb-464e-b35c-cdc15bb0ebc0](https://github.com/Ice-and-Rock/React-Blog/assets/124932222/0d471a90-a048-4eeb-92ee-b37485474fed)
+
+
+
+
+
+
+
 
 - using a local server PORT -
 
